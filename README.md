@@ -11,7 +11,8 @@
 - [🔬 A Exascale Simulation Framework for Direct-forced Immersed Boundary Method based on Spectral element solver](https://github.com/YunchaoYang/NekIBM) — Parallel IBM-SEM solver optimized for 1M+ CPU cores
 - [🤖 A Comprehensive Tutorials/Toolsets for Distributed Training on SLURM cluster](https://github.com/YunchaoYang/Distributed_Training_MultiGPU) — Scripts & workflows for scaling on HiPerGator
 - [⚡Attention CUDA Implementation]() — Experimental attention kernel
-
+- [BrainFounder: Towards Brain Foundation Models for Neuroimage Analysis](https://github.com/lab-smile/BrainSegFounder.git)
+- [Deep Learning Analysis of Retinal Structures and Risk Factors of Alzheimer’s Disease](https://github.com/lab-smile/AD_RF_Analysis.git)
  
 ### ⚙️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
