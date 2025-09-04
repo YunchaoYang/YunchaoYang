@@ -8,7 +8,7 @@
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YunchaoYang&layout=compact&theme=radical) -->
 
 ### Featured Projects
-- [🔬 A Exascale Simulation Framework for Direct-forced Immersed Boundary Method based on Spectral element solver]([https://github.com/your-username/project1](https://github.com/YunchaoYang/NekIBM)) — Parallel IBM-SEM solver optimized for 1M+ CPU cores
+- [🔬 A Exascale Simulation Framework for Direct-forced Immersed Boundary Method based on Spectral element solver](https://github.com/YunchaoYang/NekIBM) — Parallel IBM-SEM solver optimized for 1M+ CPU cores
 - [🤖 A Comprehensive Tutorials/Toolsets for Distributed Training on SLURM cluster](https://github.com/YunchaoYang/Distributed_Training_MultiGPU) — Scripts & workflows for scaling on HiPerGator
 - [⚡Attention CUDA Implementation]() — Experimental attention kernel
 
