@@ -13,7 +13,7 @@
 - [⚡Attention CUDA Implementation]() — Experimental attention kernel
 - [BrainFounder: Towards Brain Foundation Models for Neuroimage Analysis](https://github.com/lab-smile/BrainSegFounder.git)
 - [Deep Learning Analysis of Retinal Structures and Risk Factors of Alzheimer’s Disease](https://github.com/lab-smile/AD_RF_Analysis.git)
- 
+- [Distributed Data Parallel Training with Multi-GPU on HiPerGator-AI](https://github.com/UFResearchComputing/MultiGPUTraining) 
 ### ⚙️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white)
